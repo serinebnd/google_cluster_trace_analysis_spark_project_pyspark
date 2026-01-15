@@ -36,24 +36,6 @@ project_spark/
 - PySpark
 - pandas, numpy, matplotlib
 
-### Setup
-
-1. **Clone and navigate to project:**
-   ```bash
-   cd /home/dell/project_spark
-   ```
-
-2. **Create virtual environment (optional but recommended):**
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-   ```
-
-3. **Install dependencies:**
-   ```bash
-   pip install pyspark pandas numpy matplotlib
-   ```
-
 ## Usage
 
 ### Run All Analyses
