@@ -23,9 +23,8 @@ project_spark/
 ├── scripts/
 │   ├── config.py            # Configuration and schema definitions
 │   ├── run_all.py           # Main orchestrator script
-│   ├── q1.py - q12.py       # Individual analysis scripts
-│   └── output/              # Generated plots and results
-├── results/                 # Aggregated analysis results
+│   └──  q1.py - q12.py       # Individual analysis scripts
+├── results/                 # Generated plots and results
 └── schema.csv               # Dataset schema documentation
 ```
 
